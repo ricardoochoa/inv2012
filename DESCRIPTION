@@ -1,0 +1,12 @@
+Package: inv2012
+Type: Package
+Title: Mexican National Housing Inventory 2012
+Version: 0.1
+Date: 2015-11-11
+Author: Ricardo Ochoa, Ilse Avalos, Tania Guerrero
+Maintainer: Ricardo Ochoa <ochoasosaricardo@gmail.com>
+Description: As described by INEGI, this version of the National Inventory of Housing (INV) contains indicators that characterise the dwellings and inhabitants. For the towns of 5,000 or more inhabitants it includes the block level data of the urban environment.
+Depends: R (>= 2.10) 
+License: GPL-2
+NeedsCompilation: no
+Packaged: 2015-11-11 14:30:00 UTC
